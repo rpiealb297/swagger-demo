@@ -41,7 +41,7 @@ Opcionalmente, puedes usar **Yarn** u otro gestor de paquetes si lo prefieres, r
 1. **Clonar** este repositorio (o descargar el ZIP):
    ```bash
    git clone https://github.com/rpiealb297/swagger-demo.git
-   cd mi-api-swagger
+   cd swagger-demo
    ```
 
 2. **Instalar dependencias**:
